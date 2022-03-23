@@ -7,6 +7,7 @@ This is a rails app that serves as a backend to hello-react-frontend.
 - RoR version 7.0.2
 - Getting Started
 - The project comes shipped with linters config for ruby, so ensure you have Rubocop installed in your local environment
+- This is the [link](https://github.com/mckent05/hello-react-frontend) to the react application.
 
 - Ensure you have postgresql, ruby and rails set up on your machine
 ## To get a local copy of the repository please run the following commands on your terminal:
