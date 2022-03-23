@@ -10,7 +10,7 @@ This is a rails app that serves as a backend to hello-react-frontend.
 
 - Ensure you have postgresql, ruby and rails set up on your machine
 ## To get a local copy of the repository please run the following commands on your terminal:
-- `git clone https://github.com/mckent05/hello-rails-react.git`
+- `git clone https://github.com/mckent05/hello-rails-backend.git`
 - run `bundle install to couple all dependacies in gem files`
 - run `rspec spec/models` to run application models unit tests
 - rspec `spec/requests/api/v1` to run endpoint unit tests
